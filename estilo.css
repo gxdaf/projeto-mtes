@@ -219,7 +219,7 @@ p {
 }
 
 #mascot {
-	background-image: url(fundo-mtes.png);
+	background-image: url(img/fundo-mtes.png);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
