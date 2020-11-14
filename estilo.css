@@ -299,8 +299,13 @@ p {
 	padding: 100px 0;
 }
 
+#Kanban img{
+	width: 600px;
+	height: 280px;
+}
+
 #o-que-e .o-que-e-top {
-	max-width: 500px;
+	max-width: 1000px;
 	margin: 0 auto;
 }
 
